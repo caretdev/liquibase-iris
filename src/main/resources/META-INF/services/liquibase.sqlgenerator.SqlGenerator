@@ -1,0 +1,8 @@
+com.caretdev.liquibase.sqlgenerator.core.RenameColumnGeneratorIRIS
+com.caretdev.liquibase.sqlgenerator.core.SetNullableGeneratorIRIS
+com.caretdev.liquibase.sqlgenerator.core.RenameTableGeneratorIRIS
+com.caretdev.liquibase.sqlgenerator.core.DropIndexGeneratorIRIS
+com.caretdev.liquibase.sqlgenerator.core.RenameViewGeneratorIRIS
+com.caretdev.liquibase.sqlgenerator.core.AddAutoIncrementGeneratorIRIS
+com.caretdev.liquibase.sqlgenerator.core.ModifyDataTypeGeneratorIRIS
+com.caretdev.liquibase.sqlgenerator.core.SetColumnRemarksGeneratorIRIS

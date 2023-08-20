@@ -1,0 +1,5 @@
+com.caretdev.liquibase.datatype.core.BooleanTypeIRIS
+com.caretdev.liquibase.datatype.core.DoubleTypeIRIS
+com.caretdev.liquibase.datatype.core.ClobTypeIRIS
+com.caretdev.liquibase.datatype.core.BlobTypeIRIS
+com.caretdev.liquibase.datatype.core.CurrencyTypeIRIS

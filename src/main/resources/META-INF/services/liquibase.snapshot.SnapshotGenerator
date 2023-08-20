@@ -1,0 +1,4 @@
+com.caretdev.liquibase.snapshot.jvm.UniqueConstraintSnapshotGeneratorIRIS
+com.caretdev.liquibase.snapshot.jvm.ColumnSnapshotGeneratorIRIS
+com.caretdev.liquibase.snapshot.jvm.IndexSnapshotGeneratorIRIS
+com.caretdev.liquibase.snapshot.jvm.SchemaSnapshotGeneratorIRIS
